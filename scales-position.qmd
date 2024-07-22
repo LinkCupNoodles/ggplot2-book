@@ -10,7 +10,7 @@ status("polishing")
 
 Position scales are used to control the locations of visual entities in a plot, and how those locations are mapped to data values.
 Every plot has two position scales, corresponding to the x and y aesthetics.
-In most cases this is clear in the plot specification, because the user explicitly specifies the variables mapped to x and y explicitly.
+In most cases this is clear in the plot specification, because the user explicitly specifies the variables mapped to x and y.
 However, this is not always the case.
 Consider this plot specification:
 
